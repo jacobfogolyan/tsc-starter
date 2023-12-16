@@ -1,2 +1,3 @@
-# test-starter
-tsc-starter-project
+# Typescript Starter project
+
+Comes with Hot reloading path alias's
